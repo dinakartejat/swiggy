@@ -1,0 +1,2 @@
+class IplMatch < ApplicationRecord
+end
